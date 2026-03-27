@@ -1,0 +1,23 @@
+{
+  "name": "testing_labs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "test": "jest"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lemurzinka/labs-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lemurzinka/labs-testing/issues"
+  },
+  "homepage": "https://github.com/lemurzinka/labs-testing#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
